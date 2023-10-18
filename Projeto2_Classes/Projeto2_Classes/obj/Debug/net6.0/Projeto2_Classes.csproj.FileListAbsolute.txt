@@ -1,0 +1,14 @@
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\Projeto2_Classes\Projeto2_Classes\bin\Debug\net6.0\Projeto2_Classes.exe
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\Projeto2_Classes\Projeto2_Classes\bin\Debug\net6.0\Projeto2_Classes.deps.json
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\Projeto2_Classes\Projeto2_Classes\bin\Debug\net6.0\Projeto2_Classes.runtimeconfig.json
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\Projeto2_Classes\Projeto2_Classes\bin\Debug\net6.0\Projeto2_Classes.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\Projeto2_Classes\Projeto2_Classes\bin\Debug\net6.0\Projeto2_Classes.pdb
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\Projeto2_Classes\Projeto2_Classes\obj\Debug\net6.0\Projeto2_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\Projeto2_Classes\Projeto2_Classes\obj\Debug\net6.0\Projeto2_Classes.AssemblyInfoInputs.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\Projeto2_Classes\Projeto2_Classes\obj\Debug\net6.0\Projeto2_Classes.AssemblyInfo.cs
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\Projeto2_Classes\Projeto2_Classes\obj\Debug\net6.0\Projeto2_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\Projeto2_Classes\Projeto2_Classes\obj\Debug\net6.0\Projeto2_Classes.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\Projeto2_Classes\Projeto2_Classes\obj\Debug\net6.0\refint\Projeto2_Classes.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\Projeto2_Classes\Projeto2_Classes\obj\Debug\net6.0\Projeto2_Classes.pdb
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\Projeto2_Classes\Projeto2_Classes\obj\Debug\net6.0\Projeto2_Classes.genruntimeconfig.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\Projeto2_Classes\Projeto2_Classes\obj\Debug\net6.0\ref\Projeto2_Classes.dll
