@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Davy\\Documents\\GitHub\\C#\\ProjetoUm\\ProjetoUm\\ProjetoUm.csproj",
+      "projectUniqueName": "C:\\Users\\Davy\\Documents\\GitHub\\CSharp-estudos\\ProjetoUm\\ProjetoUm\\ProjetoUm.csproj",
       "projectName": "ProjetoUm",
-      "projectPath": "C:\\Users\\Davy\\Documents\\GitHub\\C#\\ProjetoUm\\ProjetoUm\\ProjetoUm.csproj",
+      "projectPath": "C:\\Users\\Davy\\Documents\\GitHub\\CSharp-estudos\\ProjetoUm\\ProjetoUm\\ProjetoUm.csproj",
       "packagesPath": "C:\\Users\\Davy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Davy\\Documents\\GitHub\\C#\\ProjetoUm\\ProjetoUm\\obj\\",
+      "outputPath": "C:\\Users\\Davy\\Documents\\GitHub\\CSharp-estudos\\ProjetoUm\\ProjetoUm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

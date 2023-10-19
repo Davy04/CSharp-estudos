@@ -21,11 +21,10 @@ namespace ProjetoUm
             y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double p = (x.A + x.B + x.C) / 2;
-            double areaX = Math.Sqrt(p * (p - x.A) * (p - x.B) * (p - x.C));
 
-            p = (y.A + y.B + y.C) / 2;
-            double areaY = Math.Sqrt(p * (p - y.A) * (p - y.B) * (p - y.C));
+            double areaX = x.CalcArea();
+
+            double areaY = y.CalcArea();
 
             Console.WriteLine("AREA DE X: " + areaX);
             Console.WriteLine("AREA DE Y: " + areaY);
