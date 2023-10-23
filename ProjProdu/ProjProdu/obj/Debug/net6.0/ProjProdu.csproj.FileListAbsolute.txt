@@ -12,3 +12,17 @@ C:\Users\Davy\Documents\GitHub\Curso_Csharp\ProjProdu\ProjProdu\obj\Debug\net6.0
 C:\Users\Davy\Documents\GitHub\Curso_Csharp\ProjProdu\ProjProdu\obj\Debug\net6.0\ProjProdu.pdb
 C:\Users\Davy\Documents\GitHub\Curso_Csharp\ProjProdu\ProjProdu\obj\Debug\net6.0\ProjProdu.genruntimeconfig.cache
 C:\Users\Davy\Documents\GitHub\Curso_Csharp\ProjProdu\ProjProdu\obj\Debug\net6.0\ref\ProjProdu.dll
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\ProjProdu\ProjProdu\bin\Debug\net6.0\ProjProdu.exe
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\ProjProdu\ProjProdu\bin\Debug\net6.0\ProjProdu.deps.json
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\ProjProdu\ProjProdu\bin\Debug\net6.0\ProjProdu.runtimeconfig.json
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\ProjProdu\ProjProdu\bin\Debug\net6.0\ProjProdu.dll
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\ProjProdu\ProjProdu\bin\Debug\net6.0\ProjProdu.pdb
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\ProjProdu\ProjProdu\obj\Debug\net6.0\ProjProdu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\ProjProdu\ProjProdu\obj\Debug\net6.0\ProjProdu.AssemblyInfoInputs.cache
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\ProjProdu\ProjProdu\obj\Debug\net6.0\ProjProdu.AssemblyInfo.cs
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\ProjProdu\ProjProdu\obj\Debug\net6.0\ProjProdu.csproj.CoreCompileInputs.cache
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\ProjProdu\ProjProdu\obj\Debug\net6.0\ProjProdu.dll
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\ProjProdu\ProjProdu\obj\Debug\net6.0\refint\ProjProdu.dll
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\ProjProdu\ProjProdu\obj\Debug\net6.0\ProjProdu.pdb
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\ProjProdu\ProjProdu\obj\Debug\net6.0\ProjProdu.genruntimeconfig.cache
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\ProjProdu\ProjProdu\obj\Debug\net6.0\ref\ProjProdu.dll
