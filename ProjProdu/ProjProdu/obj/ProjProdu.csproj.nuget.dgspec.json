@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Davy\\Documents\\GitHub\\Curso_Csharp\\ProjProdu\\ProjProdu\\ProjProdu.csproj": {}
+    "C:\\Users\\Davy\\Documents\\GitHub\\CSharp-estudos\\ProjProdu\\ProjProdu\\ProjProdu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Davy\\Documents\\GitHub\\Curso_Csharp\\ProjProdu\\ProjProdu\\ProjProdu.csproj": {
+    "C:\\Users\\Davy\\Documents\\GitHub\\CSharp-estudos\\ProjProdu\\ProjProdu\\ProjProdu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Davy\\Documents\\GitHub\\Curso_Csharp\\ProjProdu\\ProjProdu\\ProjProdu.csproj",
+        "projectUniqueName": "C:\\Users\\Davy\\Documents\\GitHub\\CSharp-estudos\\ProjProdu\\ProjProdu\\ProjProdu.csproj",
         "projectName": "ProjProdu",
-        "projectPath": "C:\\Users\\Davy\\Documents\\GitHub\\Curso_Csharp\\ProjProdu\\ProjProdu\\ProjProdu.csproj",
+        "projectPath": "C:\\Users\\Davy\\Documents\\GitHub\\CSharp-estudos\\ProjProdu\\ProjProdu\\ProjProdu.csproj",
         "packagesPath": "C:\\Users\\Davy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Davy\\Documents\\GitHub\\Curso_Csharp\\ProjProdu\\ProjProdu\\obj\\",
+        "outputPath": "C:\\Users\\Davy\\Documents\\GitHub\\CSharp-estudos\\ProjProdu\\ProjProdu\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
