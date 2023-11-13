@@ -1,0 +1,14 @@
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\HotelVet\HotelVet\bin\Debug\net6.0\HotelVet.exe
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\HotelVet\HotelVet\bin\Debug\net6.0\HotelVet.deps.json
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\HotelVet\HotelVet\bin\Debug\net6.0\HotelVet.runtimeconfig.json
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\HotelVet\HotelVet\bin\Debug\net6.0\HotelVet.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\HotelVet\HotelVet\bin\Debug\net6.0\HotelVet.pdb
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\HotelVet\HotelVet\obj\Debug\net6.0\HotelVet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\HotelVet\HotelVet\obj\Debug\net6.0\HotelVet.AssemblyInfoInputs.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\HotelVet\HotelVet\obj\Debug\net6.0\HotelVet.AssemblyInfo.cs
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\HotelVet\HotelVet\obj\Debug\net6.0\HotelVet.csproj.CoreCompileInputs.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\HotelVet\HotelVet\obj\Debug\net6.0\HotelVet.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\HotelVet\HotelVet\obj\Debug\net6.0\refint\HotelVet.dll
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\HotelVet\HotelVet\obj\Debug\net6.0\HotelVet.pdb
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\HotelVet\HotelVet\obj\Debug\net6.0\HotelVet.genruntimeconfig.cache
+C:\Users\Davy\Documents\GitHub\Curso_Csharp\HotelVet\HotelVet\obj\Debug\net6.0\ref\HotelVet.dll
