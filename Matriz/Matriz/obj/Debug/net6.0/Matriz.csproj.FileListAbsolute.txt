@@ -1,0 +1,14 @@
+C:\Users\Davy\Documents\GitHub\C#(NO-REP)\Matriz\Matriz\bin\Debug\net6.0\Matriz.exe
+C:\Users\Davy\Documents\GitHub\C#(NO-REP)\Matriz\Matriz\bin\Debug\net6.0\Matriz.deps.json
+C:\Users\Davy\Documents\GitHub\C#(NO-REP)\Matriz\Matriz\bin\Debug\net6.0\Matriz.runtimeconfig.json
+C:\Users\Davy\Documents\GitHub\C#(NO-REP)\Matriz\Matriz\bin\Debug\net6.0\Matriz.dll
+C:\Users\Davy\Documents\GitHub\C#(NO-REP)\Matriz\Matriz\bin\Debug\net6.0\Matriz.pdb
+C:\Users\Davy\Documents\GitHub\C#(NO-REP)\Matriz\Matriz\obj\Debug\net6.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davy\Documents\GitHub\C#(NO-REP)\Matriz\Matriz\obj\Debug\net6.0\Matriz.AssemblyInfoInputs.cache
+C:\Users\Davy\Documents\GitHub\C#(NO-REP)\Matriz\Matriz\obj\Debug\net6.0\Matriz.AssemblyInfo.cs
+C:\Users\Davy\Documents\GitHub\C#(NO-REP)\Matriz\Matriz\obj\Debug\net6.0\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\Davy\Documents\GitHub\C#(NO-REP)\Matriz\Matriz\obj\Debug\net6.0\Matriz.dll
+C:\Users\Davy\Documents\GitHub\C#(NO-REP)\Matriz\Matriz\obj\Debug\net6.0\refint\Matriz.dll
+C:\Users\Davy\Documents\GitHub\C#(NO-REP)\Matriz\Matriz\obj\Debug\net6.0\Matriz.pdb
+C:\Users\Davy\Documents\GitHub\C#(NO-REP)\Matriz\Matriz\obj\Debug\net6.0\Matriz.genruntimeconfig.cache
+C:\Users\Davy\Documents\GitHub\C#(NO-REP)\Matriz\Matriz\obj\Debug\net6.0\ref\Matriz.dll
