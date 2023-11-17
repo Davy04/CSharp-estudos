@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Davy\\Documents\\GitHub\\CSharp-estudos\\Worker\\Worker\\Worker.csproj",
-      "projectName": "Worker",
-      "projectPath": "C:\\Users\\Davy\\Documents\\GitHub\\CSharp-estudos\\Worker\\Worker\\Worker.csproj",
+      "projectUniqueName": "C:\\Users\\Davy\\Documents\\GitHub\\CSharp-estudos\\Worker\\Worker\\Curso.csproj",
+      "projectName": "Curso",
+      "projectPath": "C:\\Users\\Davy\\Documents\\GitHub\\CSharp-estudos\\Worker\\Worker\\Curso.csproj",
       "packagesPath": "C:\\Users\\Davy\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Davy\\Documents\\GitHub\\CSharp-estudos\\Worker\\Worker\\obj\\",
       "projectStyle": "PackageReference",

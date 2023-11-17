@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using Worker.Entities.Enums;
+using Curso.Entities.Enums;
 
-namespace Worker.Entities
+namespace Curso.Entities
 {
     class Worker
     {

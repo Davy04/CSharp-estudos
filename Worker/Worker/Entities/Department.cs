@@ -1,4 +1,4 @@
-﻿namespace Worker.Entities
+﻿namespace Curso.Entities
 {
     internal class Department
     {
