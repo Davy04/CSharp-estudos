@@ -1,0 +1,14 @@
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\FuncTerc\FuncTerc\bin\Debug\net6.0\FuncTerc.exe
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\FuncTerc\FuncTerc\bin\Debug\net6.0\FuncTerc.deps.json
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\FuncTerc\FuncTerc\bin\Debug\net6.0\FuncTerc.runtimeconfig.json
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\FuncTerc\FuncTerc\bin\Debug\net6.0\FuncTerc.dll
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\FuncTerc\FuncTerc\bin\Debug\net6.0\FuncTerc.pdb
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\FuncTerc\FuncTerc\obj\Debug\net6.0\FuncTerc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\FuncTerc\FuncTerc\obj\Debug\net6.0\FuncTerc.AssemblyInfoInputs.cache
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\FuncTerc\FuncTerc\obj\Debug\net6.0\FuncTerc.AssemblyInfo.cs
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\FuncTerc\FuncTerc\obj\Debug\net6.0\FuncTerc.csproj.CoreCompileInputs.cache
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\FuncTerc\FuncTerc\obj\Debug\net6.0\FuncTerc.dll
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\FuncTerc\FuncTerc\obj\Debug\net6.0\refint\FuncTerc.dll
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\FuncTerc\FuncTerc\obj\Debug\net6.0\FuncTerc.pdb
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\FuncTerc\FuncTerc\obj\Debug\net6.0\FuncTerc.genruntimeconfig.cache
+C:\Users\Davy\Documents\GitHub\CSharp-estudos\FuncTerc\FuncTerc\obj\Debug\net6.0\ref\FuncTerc.dll
